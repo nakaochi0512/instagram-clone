@@ -15,9 +15,7 @@
 		705CD0F71F2FC5D700164E7D /* PostTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 705CD0F51F2FC5D700164E7D /* PostTableViewCell.xib */; };
 		707E431C1F2C4A4D0060B03E /* AdobeCreativeSDKCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 707E431A1F2C4A4D0060B03E /* AdobeCreativeSDKCore.framework */; };
 		707E431D1F2C4A4D0060B03E /* AdobeCreativeSDKImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 707E431B1F2C4A4D0060B03E /* AdobeCreativeSDKImage.framework */; };
-		707E431E1F2C4B800060B03E /* AdobeCreativeSDKCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 707E431A1F2C4A4D0060B03E /* AdobeCreativeSDKCore.framework */; };
 		707E431F1F2C4B800060B03E /* AdobeCreativeSDKCore.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 707E431A1F2C4A4D0060B03E /* AdobeCreativeSDKCore.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		707E43201F2C4B800060B03E /* AdobeCreativeSDKImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 707E431B1F2C4A4D0060B03E /* AdobeCreativeSDKImage.framework */; };
 		707E43211F2C4B800060B03E /* AdobeCreativeSDKImage.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 707E431B1F2C4A4D0060B03E /* AdobeCreativeSDKImage.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		707E43241F2C50A50060B03E /* libc++.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 707E43231F2C50A50060B03E /* libc++.tbd */; };
 		707E43261F2C50B80060B03E /* libz.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 707E43251F2C50B80060B03E /* libz.tbd */; };
@@ -113,8 +111,6 @@
 				17D14DC12544A219F6B2DA23 /* Pods_Instagram.framework in Frameworks */,
 				707E431D1F2C4A4D0060B03E /* AdobeCreativeSDKImage.framework in Frameworks */,
 				707E431C1F2C4A4D0060B03E /* AdobeCreativeSDKCore.framework in Frameworks */,
-				707E43201F2C4B800060B03E /* AdobeCreativeSDKImage.framework in Frameworks */,
-				707E431E1F2C4B800060B03E /* AdobeCreativeSDKCore.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
