@@ -24,6 +24,7 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
+    
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
       
@@ -43,7 +44,7 @@ class ViewController: UIViewController {
 
     }
     
-    
+
     func setupTab(){
         // Assets内の画像ファイル名を指定してESTabBarControllerを作成する
         let tabBarController: ESTabBarController! = ESTabBarController(tabIconNames: ["home", "camera", "setting"])

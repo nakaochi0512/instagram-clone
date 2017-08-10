@@ -198,14 +198,10 @@
                             <constraint firstItem="7Vb-FA-eTk" firstAttribute="top" secondItem="W3C-rm-CXg" secondAttribute="bottom" constant="10" id="uKO-fX-z0U"/>
                         </constraints>
                     </view>
-                    <connections>
-                        <outlet property="handleCancelButton" destination="c3H-eH-5Sg" id="LA4-g4-QQI"/>
-                        <outlet property="handleLibraryButton" destination="W3C-rm-CXg" id="AgD-S1-QyF"/>
-                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ghP-3f-xe3" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2129" y="139"/>
+            <point key="canvasLocation" x="2137" y="139"/>
         </scene>
         <!--Post View Controller-->
         <scene sceneID="A2B-4H-zNt">
@@ -267,7 +263,7 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="imageview" destination="ii3-iQ-Nqf" id="nYH-v4-T9o"/>
+                        <outlet property="imageView" destination="ii3-iQ-Nqf" id="AsB-IW-sfI"/>
                         <outlet property="textField" destination="RED-jf-YuD" id="79I-2y-tZX"/>
                     </connections>
                 </viewController>
